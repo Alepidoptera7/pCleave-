@@ -1,0 +1,15 @@
+body{
+background-image: url(img/background.jpg);
+color: white;
+font-family: verdana;
+}
+
+#header{
+font-family: verdana;
+color: white;
+}
+
+nav{
+color: white;
+font-family: verdana;
+}
