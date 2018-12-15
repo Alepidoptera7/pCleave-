@@ -28,7 +28,7 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: pink;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -37,4 +37,12 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
+}
+
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
