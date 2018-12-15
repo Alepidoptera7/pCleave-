@@ -1,11 +1,10 @@
 body{
 background-image: url(img/background.jpg);
-color: white;
 font-family: verdana;
 background-repeat: no-repeat;
-background-size: 100% 100%;
-}
-
+background-size: cover;
+min-height: 100%;
+min-width: 100%;  
 }
 
 #header{
@@ -41,6 +40,6 @@ li a {
 }
 
 li a:hover {
-  background-color: white;
+  background-color: purple;
 }
 
