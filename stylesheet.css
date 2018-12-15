@@ -2,6 +2,10 @@ body{
 background-image: url(img/background.jpg);
 color: white;
 font-family: verdana;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
 }
 
 #header{
@@ -39,10 +43,3 @@ li a:hover {
   background-color: #111;
 }
 
-html { 
-  background: url(images/bg.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
