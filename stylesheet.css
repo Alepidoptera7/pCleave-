@@ -5,6 +5,7 @@ background-repeat: no-repeat;
 background-size: cover;
 min-height: 100%;
 min-width: 100%;  
+color: white; 
 }
 
 #header{
@@ -35,14 +36,9 @@ li a {
   display: block;
   color: pink;
   text-align: center;
-  padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover {
   background-color: pink;
-}
-
-body {
-color: white; 
 }
