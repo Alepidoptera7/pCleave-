@@ -1,11 +1,22 @@
 body{
+font-family: verdana; 
+color: white; 
+}
+
+.index{
 background-image: url(img/background.jpg);
-font-family: verdana;
 background-repeat: no-repeat;
 background-size: cover;
 min-height: 100%;
-min-width: 100%;  
-color: white; 
+min-width: 100%; 
+}
+
+.AL{
+background-image: url(img/background.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 100%;
+min-width: 100%;   
 }
 
 #header{
