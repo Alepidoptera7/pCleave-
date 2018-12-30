@@ -40,6 +40,9 @@ li a {
 }
 
 li a:hover {
-  background-color: purple;
+  background-color: pink;
 }
 
+body {
+color: white; 
+}
