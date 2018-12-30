@@ -37,6 +37,7 @@ li a {
   color: pink;
   text-align: center;
   text-decoration: none;
+  padding: 10;
 }
 
 li a:hover {
