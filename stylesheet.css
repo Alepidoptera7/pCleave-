@@ -1,6 +1,12 @@
 body{
 font-family: verdana; 
 color: white; 
+display: block;
+text-align: center;
+text-decoration: none;
+padding: 10 px;  
+background: url(img/background.jpg) no-repeat center center fixed; 
+
 }
 
 #header{
