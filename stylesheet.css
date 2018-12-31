@@ -3,19 +3,6 @@ font-family: verdana;
 color: white; 
 }
 
-.index{
-background-image: url(img/background.jpg);
-background: url(img/background.jpg) no-repeat center center fixed;
-}
-
-.AL{
-background-image: url(img/AL.jpg);
-background-repeat: no-repeat;
-background-size: cover;
-min-height: 100%;
-min-width: 100%;   
-}
-
 #header{
 font-family: verdana;
 color: white;
