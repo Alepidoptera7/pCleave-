@@ -26,22 +26,13 @@ ul {
   overflow: hidden;
   background-color: purple;
   position: fixed;
-  bottom: 0;
+  top: 0;
 }
 
 li {
   float: left;
   display: inline;
   border-right: 1px solid white;
-  display: block;
-  color: pink;
-  text-align: center;
-  text-decoration: none;
-  padding: 10px;
-}
-
-li a {
-  display: block;
   color: pink;
   text-align: center;
   text-decoration: none;
