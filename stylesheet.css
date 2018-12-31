@@ -22,14 +22,26 @@ font-family: verdana;
 ul {
   list-style-type: none;
   width: 75px;
-  padding: 10px;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
   background-color: purple;
   position: fixed;
 }
 
 li {
-  float: left;
-  display: inline;
   border-right: 1px solid white;
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
 }
