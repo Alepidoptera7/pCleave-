@@ -4,7 +4,7 @@ color: white;
 display: block;
 text-align: center;
 text-decoration: none;
-padding: 10px 10px 10px;  
+padding: 10px;  
 }
 
 #header{
@@ -15,20 +15,27 @@ color: white;
 nav{
 color: white;
 margin: auto;
-padding: 10px 10px 10px;
+padding: 10px;
 font-family: verdana;
 }
 
 ul {
   list-style-type: none;
   width: 75px;
-  padding: 10px 10px 10px;
+  padding: 10px;
   overflow: hidden;
   background-color: purple;
 }
 
 li {
-  float: right;
+  float: left;
+  display: inline;
+  border-right: 1px solid white;
+  display: block;
+  color: pink;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
 }
 
 li a {
@@ -36,9 +43,5 @@ li a {
   color: pink;
   text-align: center;
   text-decoration: none;
-  padding: 10px 10px 10px;
-}
-
-li a:hover {
-  background-color: pink;
+  padding: 10px;
 }
