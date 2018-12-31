@@ -34,3 +34,10 @@ li {
   display: inline;
   border-right: 1px solid white;
 }
+
+li a {
+  display: block;
+  color: pink;
+  text-decoration: none;
+  padding: 10px;
+}
