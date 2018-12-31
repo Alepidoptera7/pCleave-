@@ -34,8 +34,8 @@ li {
 li a {
   display: block;
   color: white;
-  text-align: center;
-  padding: 14px 10px 10px 10px;
+  text-align: top;
+  padding: 14px 10px;
   text-decoration: none;
 }
 
