@@ -25,6 +25,8 @@ ul {
   padding: 10px;
   overflow: hidden;
   background-color: purple;
+  position: fixed;
+  bottom: 0;
 }
 
 li {
