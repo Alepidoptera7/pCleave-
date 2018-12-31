@@ -4,7 +4,7 @@ color: white;
 display: block;
 text-align: center;
 text-decoration: none;
-padding: 10;  
+padding: 10px 10px 10px;  
 }
 
 #header{
@@ -15,14 +15,14 @@ color: white;
 nav{
 color: white;
 margin: auto;
-padding: 10;
+padding: 10px 10px 10px;
 font-family: verdana;
 }
 
 ul {
   list-style-type: none;
   width: 75 px;
-  padding: 10;
+  padding: 10 px 10 px 10 px;
   overflow: hidden;
   background-color: purple;
 }
@@ -36,7 +36,7 @@ li a {
   color: pink;
   text-align: center;
   text-decoration: none;
-  padding: 10;
+  padding: 10px 10px 10px;
 }
 
 li a:hover {
